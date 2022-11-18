@@ -6,7 +6,7 @@ public class Fact_no {
 		// TODO Auto-generated method stub
 		
 		String ="Anu";
-		
+		String= "Sorry";
 		int a=6;
 		int fact=1;
 		for(int i=6;i>=1;i--) {
